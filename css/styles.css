@@ -1,36 +1,33 @@
 :root 
 {
-    --primary-text-color:#2E2F42; #FFFFFF;
-    --secondary-text-color: 
-}
+    --primary-text-color:#2E2F42; #FFFFFF,
+    --secondary-text-color 
+  }
 body {
     font-family: "Roboto", sans-serif;
-    color: var(#FFF);
+    color: #434455;
  background-color: #FFF;}
 a {
-    text-decoration: none;}
+    text-decoration:none;}
 .list {
     padding: 0;
-    list-style: none;
+    list-style:none;
 }
 .link {
-    text-decoration: none;
+    text-decoration:none;
 }
 /*header*/
-
 .logo {
-font-family:Releway; sans-serif;
+font-family:"Releway", sans-serif;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-font-size:18px;
+font-size: 18px;
 font-weight:700;
 line-height:1.17;
 letter-spacing:0.03em;
 text-transform:uppercase;
 color: #4d5ae5}
 ./span { 
-color:#2e2f42;
-}
-
+color: #2e2f42;
 }
 .nav.link { 
 /* Body Medium */
@@ -68,7 +65,8 @@ line-height:1.5;
 letter-spacing:0.04em;
 color: #ffffff ;
 cursor:pointer;
-.button:hover [background-color: #404BBF]
+.button:hover: {background-color: #404BBF};
+.button:focus: {color: #404bbf};
 }
 .title-2 
 {
@@ -84,13 +82,13 @@ text-align;
 
 /* Header 2 */
 font-family: Roboto;
-font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: 1.11 
-line-height: 40px; /* 111.111% */
+font-size:36px;
+font-style:normal;
+font-weight:700;
+line-height:1.11 
+line-height:40px; /* 111.111% */
 letter-spacing: 0.72px;
-text-transform: capitalize;
+text-transform:capitalize;
 }
 .title-3 {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -116,10 +114,9 @@ letter-spacing: 0.32px;
 }
 
 /*footer*/
-
-background-color :#2e2f42 ;
-font-family: "Raleway"; sans-serif
-line-height: 1.17
-letter-spacing: 0.03em 
+background-color :#2e2f42,
+font-family:"Raleway"; sans-serif,
+line-height:1.17,
+letter-spacing: 0.03em,
 text-transform: uppercase 
 color: #4d5ae5;
