@@ -3,7 +3,7 @@
     --secondary-text-color: 
 }
 body {
-    font-family: Roboto; Releway;
+    font-family: Roboto; sans-serif;sans-serif
     color: var(#FFF);
     background-color: #FFF;
 }
@@ -20,11 +20,16 @@ a {
 /*header*/
 
 .logo {
-color: var(--NAVY-BLUE, #2E2F42);
+font-family:Releway; sans-serif;
+color: var(--NAVY-BLUE, #2E2F42);#4d5ae5;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16
-letter-spacing: -0.04;
+line-height: 1.17
+letter-spacing: 0.03em;
+text-transform: uppercase
+./span { 
+    color:#2e2f42;
+}
 }
 .nav.link { 
 /* Body Medium */
@@ -41,7 +46,7 @@ color:orange;
 .header-title{
     color: var(--WHITE, #FFF);
 text-align: center;
-
+}
 /* Header 1 */
 font-family: Roboto;
 font-size: 56px;
@@ -80,7 +85,7 @@ line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
 }
 .content{
-    color: var(--SLATE, #434455);
+color: var(--SLATE, #434455);
 
 /* Body */
 font-family: Roboto;
@@ -89,4 +94,14 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+}
+/*footer*/
+{
+.logo
+background-color :#2e2f42 
+font-family: "Raleway", sans-serif,
+line-height: 1.17
+letter-spacing: 0.03em
+text-transform: uppercase 
+color: #4d5ae5
 }
