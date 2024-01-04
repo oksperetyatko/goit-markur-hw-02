@@ -1,9 +1,10 @@
-:root {
+:root 
+{
     --primary-text-color:#2E2F42; #FFFFFF;
     --secondary-text-color: 
 }
 body {
-    font-family: Roboto; sans-serif;sans-serif
+    font-family: Roboto; sans-serif; sans-serif;
     color: var(#FFF);
     background-color: #FFF;
 }
@@ -27,9 +28,11 @@ font-weight: 700;
 line-height: 1.17
 letter-spacing: 0.03em;
 text-transform: uppercase
+color: #4d5ae5
 ./span { 
     color:#2e2f42;
 }
+
 }
 .nav.link { 
 /* Body Medium */
@@ -44,31 +47,50 @@ letter-spacing: 0.32px;
 color:orange;
 }
 .header-title{
-    color: var(--WHITE, #FFF);
+color: var(--WHITE, #FFF);
 text-align: center;
 }
 /* Header 1 */
+background-color: #2e2f42
 font-family: Roboto;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
-}
+
 .button {
-    border-radius: 4px;
-background: var(--IRIS, #4D5AE5);
+border-radius: 4px;
+background: var(--IRIS,  #4D5AE5);
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+background-color: #4D5AE5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px ;
+line-height: 1.5 ;
+letter-spacing: 0.04em;
+color: #ffffff ;
+cursor: pointer;
+.button: hover [background-color: #404BBF]
 }
-.title-2 {
-    color: var(--NAVY-BLUE, #2E2F42);
+.title-2 
+{
+color: var(--NAVY-BLUE,#2E2F42);
 text-align: center;
+font-size: 56px;
+font-weight: 500;
+font-size: 20px ;
+line-height: 1.2 ;
+letter-spacing: 0.02em;
+line-height: 1.07;
+text-align; 
 
 /* Header 2 */
 font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
+line-height: 1.11 
 line-height: 40px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;
@@ -84,7 +106,7 @@ font-weight: 500;
 line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
 }
-.content{
+.content {
 color: var(--SLATE, #434455);
 
 /* Body */
@@ -95,13 +117,13 @@ font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 }
+
 /*footer*/
-{
-.logo
+
 background-color :#2e2f42 
-font-family: "Raleway", sans-serif,
+{font-family: "Raleway", sans-serif,
 line-height: 1.17
-letter-spacing: 0.03em
+letter-spacing: 0.03em 
 text-transform: uppercase 
 color: #4d5ae5
 }
