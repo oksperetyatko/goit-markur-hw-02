@@ -6,11 +6,9 @@
 body {
     font-family: Roboto; sans-serif; sans-serif;
     color: var(#FFF);
-    background-color: #FFF;
-}
+ background-color: #FFF;}
 a {
-    text-decoration: none;
-}
+    text-decoration: none;}
 .list {
     padding: 0;
     list-style: none;
@@ -21,7 +19,7 @@ a {
 /*header*/
 
 .logo {
-font-family:Releway; sans-serif;
+font-family:Releway; sans-serif ;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae5;
 font-size: 18px;
 font-weight: 700;
@@ -60,7 +58,6 @@ line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
 
 .button {
-border-radius: 4px;
 background: var(--IRIS,  #4D5AE5);
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 background-color: #4D5AE5;
@@ -119,11 +116,9 @@ letter-spacing: 0.32px;
 }
 
 /*footer*/
-
 background-color :#2e2f42 
-{font-family: "Raleway", sans-serif,
+font-family: "Raleway", sans-serif,
 line-height: 1.17
 letter-spacing: 0.03em 
 text-transform: uppercase 
 color: #4d5ae5
-}
