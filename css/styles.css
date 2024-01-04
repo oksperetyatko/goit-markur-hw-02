@@ -4,7 +4,7 @@
     --secondary-text-color: 
 }
 body {
-    font-family: Roboto; sans-serif; sans-serif;
+    font-family: "Roboto", sans-serif;
     color: var(#FFF);
  background-color: #FFF;}
 a {
@@ -20,13 +20,13 @@ a {
 
 .logo {
 font-family:Releway; sans-serif;
-color: var(--NAVY-BLUE, #2E2F42);#4d5ae5;
-font-size: 18px;
+color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
+font-size:18px;
 font-weight:700;
 line-height:1.17;
 letter-spacing:0.03em;
 text-transform:uppercase;
-color: #4d5ae5
+color: #4d5ae5}
 ./span { 
 color:#2e2f42;
 }
@@ -49,25 +49,26 @@ color: var(--WHITE, #FFF);
 text-align: center;
 }
 /* Header 1 */
+.site-hed {
 background-color: #2e2f42
 font-family: Roboto;
-font-size: 56px;
+font-size:56px;
 font-style: normal;
 font-weight: 700;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
-
+}
 .button {
 background: var(--IRIS,  #4D5AE5);
 background-color: #4D5AE5;
 font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px ;
-line-height: 1.5 ;
-letter-spacing: 0.04em;
+font-weight:500;
+font-size:16px;
+line-height:1.5;
+letter-spacing:0.04em;
 color: #ffffff ;
-cursor: pointer;
-.button: hover [background-color: #404BBF]
+cursor:pointer;
+.button:hover [background-color: #404BBF]
 }
 .title-2 
 {
