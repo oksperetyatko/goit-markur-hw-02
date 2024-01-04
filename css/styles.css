@@ -2,7 +2,7 @@
 {
     --primary-text-color:#2E2F42; #FFFFFF,
     --secondary-text-color 
-  }
+}
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -18,16 +18,16 @@ a {
 }
 /*header*/
 .logo {
-font-family:"Releway", sans-serif;
+font-family:"Releway",sans-serif;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-font-size: 18px;
+font-size 18px;
 font-weight:700;
 line-height:1.17;
 letter-spacing:0.03em;
 text-transform:uppercase;
 color: #4d5ae5}
-./span { 
-color: #2e2f42;
+.span {
+    color: #2e2f42 ;
 }
 .nav.link { 
 /* Body Medium */
@@ -48,7 +48,7 @@ text-align: center;
 /* Header 1 */
 .site-hed {
 background-color: #2e2f42
-font-family: Roboto;
+font-family "Roboto";
 font-size:56px;
 font-style: normal;
 font-weight: 700;
@@ -65,8 +65,8 @@ line-height:1.5;
 letter-spacing:0.04em;
 color: #ffffff ;
 cursor:pointer;
-.button:hover: {background-color: #404BBF};
-.button:focus: {color: #404bbf};
+.button:hover {background-color: #404BBF};
+.button:focus {color: #404bbf};
 }
 .title-2 
 {
@@ -78,15 +78,15 @@ font-size: 20px ;
 line-height: 1.2 ;
 letter-spacing: 0.02em;
 line-height: 1.07;
-text-align; 
+text-align:
 
 /* Header 2 */
-font-family: Roboto;
+font-family "Roboto";
 font-size:36px;
 font-style:normal;
 font-weight:700;
 line-height:1.11 
-line-height:40px; /* 111.111% */
+line-height 40px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform:capitalize;
 }
@@ -115,8 +115,8 @@ letter-spacing: 0.32px;
 
 /*footer*/
 background-color :#2e2f42,
-font-family:"Raleway"; sans-serif,
-line-height:1.17,
-letter-spacing: 0.03em,
+font-family "Raleway"; sans-serif:
+line-height 1.17px;
+letter-spacing: 0.03em;
 text-transform: uppercase 
-color: #4d5ae5;
+color var(# 4d5ae5);
