@@ -1,3 +1,4 @@
+
 :root 
 {
     --primary-text-color:#2E2F42; #FFFFFF,
@@ -23,8 +24,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-.nav-item {
     color: #2e2f42;
 }
 .nav-item:hover{
@@ -58,17 +57,6 @@ color: #404bbf ;
     line-height: 60px; /* 107.143% */
     letter-spacing: 1.12px;
 }
-.button {
-    background: var(--IRIS,  #4D5AE5);
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight:500;
-    font-size:16px;
-    line-height:1.5;
-    letter-spacing:0.04em;
-    color: #ffffff ;
-    cursor:pointer;
-}
     .title-advert {
     font-weight: 500;
     font-size: 20px ;
@@ -86,7 +74,7 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
-letter-spacing: 0.32px; ;
+letter-spacing: 0.32px; 
 
 .employess{
     background-color: #F4F4FD ;
@@ -167,12 +155,13 @@ letter-spacing: 0.4px;
 }
 .logo {
     font-family:"Raleway",sans-serif;
-    color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-    font-size: 18px ;
+    color: var(--NAVY-BLUE, #2E2F42);#4d5ae, 
+   
     line-height: 1.17 ;
     letter-spacing:0.03em;
     text-transform:uppercase;
     font-weight: 700 ;
+    font-size: 18px ;
     color: #4d5ae5;
 }
     .logo-studio {
