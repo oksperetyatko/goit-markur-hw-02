@@ -32,7 +32,7 @@ a {
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.logo.studio{
+.logo-studio{
     color: #f4f4fd;
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway, sans-serif;
@@ -74,13 +74,13 @@ a {
     letter-spacing: 0.32px;
 }
 /*footer*/
-.site_foot{
-   background-color: #2e2f42 ;
-   
+.site-foot{
+   background-color: #2e2f42 ;  
 }
 .logo-web{
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway;
+    line-height: 1.17;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -88,7 +88,7 @@ a {
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.logo.studio{
+.logo-studio{
     color: #f4f4fd;
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway, sans-serif;
