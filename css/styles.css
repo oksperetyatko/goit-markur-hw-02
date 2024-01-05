@@ -18,9 +18,16 @@ a {
 }
 /*header*/
 
-.site-hed
+.site-hed {
 
+}
 
+.nav-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
 .address {
     font-style: normal ;
 }
@@ -51,6 +58,7 @@ a {
     letter-spacing:0.04em;
     color: #ffffff ;
     cursor:pointer;
+
     .button:hover {background-color: #404BBF};
     .button:focus {color: #404bbf};
     }  
@@ -83,7 +91,6 @@ color: #434455 ;
     font-size: 20px ;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 .nav.link { 
 /* Body Medium */
@@ -94,7 +101,8 @@ line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 }
 .nav.link:hover,
-.nav.link:focus {
+.nav.link:focus 
+{
 color:orange;
 }
 /* Header 1 */
