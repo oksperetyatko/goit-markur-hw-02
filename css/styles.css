@@ -18,166 +18,80 @@ a {
     text-decoration:none;
 }
 /*header*/
+.nav-list {
 
-.nav-item {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
 }
-.nav-item:hover{
-color: #404bbf ;
-}
-.nav-add {
-    color:#434455 
-}
-.nav-add:hover {
-    color: #404bbf ;
-}
-.address {
-    font-style: normal ;
-}
-.addres-item {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455 ;
-}
-.efect-section {
-    background-color:#2e2f42 ;
-}
-.efect-title {
-    color: var(--WHITE, #FFF);
-    text-align: center;
-    font-family: Roboto;
-    font-size: 56px;
+.logo-web{
+    color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px; /* 107.143% */
-    letter-spacing: 1.12px;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
-    .title-advert {
-    font-weight: 500;
-    font-size: 20px ;
-    line-height: 1.2 ;
-    letter-spacing: 0.02em ;
-    color: #2e2f42 ;
-}
-.content {
-color:color
-: var(--SLATE, #434455);
-}
-/* Body */
-font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px; 
-
-.employess{
-    background-color: #F4F4FD ;
-}
-.title-empl{
-    font-size: 36px ;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em ;
-    text-transform: capitalize ;
-    color: #2e2f42;
-}
-.empl-link{
-    background-color: #FFFFFF;
-}
-.title-3 {
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.nav.link { 
-/* Body Medium */
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
-}
-
-/* Header 1 */
-.site-hed {
-background-color: #2e2f42
-font-family "Roboto";
-font-size:56px;
-font-style: normal;
-font-weight: 700;
-line-height: 60px; /* 107.143% */
-letter-spacing: 1.12px;
-}
-.title-2 
-{
-color: var(--NAVY-BLUE,#2E2F42);
-text-align: center;
-font-size: 56px;
-font-weight: 500;
-font-size: 20px ;
-line-height: 1.2 ;
-letter-spacing: 0.02em;
-line-height: 1.07;
-text-align:
-
-/* Header 2 */
-font-family "Roboto";
-font-size:36px;
-font-style:normal;
-font-weight:700;
-line-height:1.11 
-line-height 40px; /* 111.111% */
-letter-spacing: 0.72px;
-text-transform:capitalize;
-}
-.title-3 {
+.logo.studio{
     color: var(--NAVY-BLUE, #2E2F42);
-
-/* Header 3 */
-font-family: Roboto;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px; /* 120% */
-letter-spacing: 0.4px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
+.nav-contact{
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+.addres-link{
 
+}
+.nav-address{
+    color: var(--SLATE, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
 /*footer*/
-.site-foot {
-    background-color:#2e2f42 ;
+.site_foot{
+
 }
-.logo {
-    font-family:"Raleway",sans-serif;
-    color: var(--NAVY-BLUE, #2E2F42);#4d5ae, 
-   
-    line-height: 1.17 ;
-    letter-spacing:0.03em;
-    text-transform:uppercase;
-    font-weight: 700 ;
-    font-size: 18px ;
-    color: #4d5ae5;
+.logo-web{
+    color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
-    .logo-studio {
-    color: #f4f4fd ;
-display: flex;
-width: 71px;
-height: 21px;
-flex-direction: column;
-justify-content: center;
-        
-    }
-    .content {
-        line-height: 1.5 ;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
-        color: var(--CLOUD, #F4F4FD);
-    
-       
-    }
+.logo.studio{
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.content{
+    color: var(--CLOUD, #F4F4FD);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
