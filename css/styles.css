@@ -180,7 +180,6 @@ font-size: 36px;
 }
 .logo-studio{
     color: #f4f4fd;
-    color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway, sans-serif;
     line-height: 1.17;
     font-size: 18px;
@@ -192,8 +191,6 @@ font-size: 36px;
 }
 .content{
     color: #434455 ;
-    color:#F4F4FD;
-    color: var(--CLOUD, #F4F4FD);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
