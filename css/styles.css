@@ -73,6 +73,86 @@ a {
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
+/*body*/
+.efect-section{
+    background-color: #2e2f42;
+}
+.efect-title{
+    color: #ffffff ;
+    font-size: 56px;
+    line-height: 1.07 ;
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+}
+.button{
+    cursor: pointer;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px ;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff ;}
+.button:hover {
+    background-color: #404BBF ;
+}
+.button:focus {
+    background-color:#404BBF ;
+}
+.advert-class{
+
+}
+.title-advert{
+
+}
+.title-3{
+    color:#2e2f42;
+    font-weight: 500;
+    font-size: 20px ;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+}
+.content{
+   color: #434455 ;
+}
+.employess{
+    background-color: #F4F4FD;
+}
+.title-empl {
+color:#2e2f42;
+text-transform: capitalize;
+letter-spacing: 0.02em;
+text-align: center;
+line-height: 1.11;
+font-size: 36px;
+}
+.empl-link{
+    background-color: #FFFFFF;
+}
+.title-3 {
+color: #2e2f42;
+letter-spacing: 0.02em;
+line-height: 1.2 ;
+font-size: 20px ;
+font-weight: 500;
+}
+.portfolio{
+
+}
+.title-port {
+color:#2e2f42;
+text-transform: capitalize;
+letter-spacing: 0.02em;
+text-align: center;
+line-height: 1.11;
+font-size: 36px;
+}
+.content {
+    color:#434455 ;
+    
+}
 /*footer*/
 .site-foot{
    background-color: #2e2f42 ;  
@@ -92,6 +172,7 @@ a {
     color: #f4f4fd;
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway, sans-serif;
+    line-height: 1.17;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
