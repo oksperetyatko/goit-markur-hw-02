@@ -19,10 +19,10 @@ a {
 /*header*/
 
 .nav-item {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
 }
 .nav-item {
     color: #2e2f42;
@@ -168,19 +168,21 @@ letter-spacing: 0.4px;
 .logo {
     font-family:"Raleway",sans-serif;
     color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-    font-weight: 700 ;
     font-size: 18px ;
     line-height: 1.17 ;
     letter-spacing:0.03em;
     text-transform:uppercase;
-    color: #4d5ae5}
-    .logo-studio{
+    font-weight: 700 ;
+    color: #4d5ae5;
+}
+    .logo-studio {
+    color: #f4f4fd ;
 display: flex;
 width: 71px;
 height: 21px;
 flex-direction: column;
 justify-content: center;
-        color: #2e2f42 ;
+        
     }
     .content {
         line-height: 1.5 ;
