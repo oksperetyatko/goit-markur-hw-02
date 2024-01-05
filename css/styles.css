@@ -22,14 +22,27 @@ a {
 .logo {
 font-family:"Raleway",sans-serif;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-font-size :18 px;
 font-weight:700;
+font-size: 18px 
 line-height:1.17;
 letter-spacing:0.03em;
 text-transform:uppercase;
 color: #4d5ae5}
 .span {
     color: #2e2f42 ;
+}
+.logo-studio{
+    color: #2e2f42;
+}
+.address {
+    font-style: normal ;
+}
+.addres-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455 ;
+
 }
 .efect-section {
     background-color:#2e2f42 ;
@@ -101,7 +114,6 @@ font-weight: 700;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
 }
-
 .title-2 
 {
 color: var(--NAVY-BLUE,#2E2F42);
@@ -141,5 +153,5 @@ background-color :#2e2f42,
 font-family "Raleway",sans-serif;
 line-height :1.17px;
 letter-spacing: 0.03em;
-text-transform: uppercase 
+text-transform: uppercase ;
 color: #4d5ae5;
