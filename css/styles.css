@@ -17,10 +17,12 @@ a {
     text-decoration:none;
 }
 /*header*/
+
+.site-hed
 .logo {
-font-family:"Releway",sans-serif;
+font-family:"Raleway",sans-serif;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-font-size 18px;
+font-size 18 px;
 font-weight:700;
 line-height:1.17;
 letter-spacing:0.03em;
@@ -28,6 +30,39 @@ text-transform:uppercase;
 color: #4d5ae5}
 .span {
     color: #2e2f42 ;
+}
+.efect-section {
+    background-color:#2e2f42 ;
+}
+.efect-tile {
+    font-size: 56px ;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em ;
+    color: #ffffff ;
+}
+.button {
+    background: var(--IRIS,  #4D5AE5);
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.04em;
+    color: #ffffff ;
+    cursor:pointer;
+    .button:hover {background-color: #404BBF};
+    .button:focus {color: #404bbf};
+    }  
+.title-advert{
+    font-weight: 500;
+    font-size: 20px ;
+    line-height: 1.2 ;
+    letter-spacing: 0.02em ;
+    color: #2e2f42 ;
+}
+.content {
+    
 }
 .nav.link { 
 /* Body Medium */
@@ -41,10 +76,6 @@ letter-spacing: 0.32px;
 .nav.link:focus {
 color:orange;
 }
-.header-title{
-color: var(--WHITE, #FFF);
-text-align: center;
-}
 /* Header 1 */
 .site-hed {
 background-color: #2e2f42
@@ -55,19 +86,7 @@ font-weight: 700;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
 }
-.button {
-background: var(--IRIS,  #4D5AE5);
-background-color: #4D5AE5;
-font-family: "Roboto", sans-serif;
-font-weight:500;
-font-size:16px;
-line-height:1.5;
-letter-spacing:0.04em;
-color: #ffffff ;
-cursor:pointer;
-.button:hover {background-color: #404BBF};
-.button:focus {color: #404bbf};
-}
+
 .title-2 
 {
 color: var(--NAVY-BLUE,#2E2F42);
@@ -115,8 +134,8 @@ letter-spacing: 0.32px;
 
 /*footer*/
 background-color :#2e2f42,
-font-family "Raleway"; sans-serif:
-line-height 1.17px;
+font-family "Raleway",sans-serif;
+line-height :1.17px;
 letter-spacing: 0.03em;
 text-transform: uppercase 
-color var(# 4d5ae5);
+color: #4d5ae5;
