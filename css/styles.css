@@ -22,7 +22,7 @@ a {
 .logo {
 font-family:"Raleway",sans-serif;
 color: var(--NAVY-BLUE, #2E2F42);#4d5ae,
-font-size 18 px;
+font-size :18 px;
 font-weight:700;
 line-height:1.17;
 letter-spacing:0.03em;
@@ -62,7 +62,22 @@ color: #4d5ae5}
     color: #2e2f42 ;
 }
 .content {
-    
+
+}
+.employess{
+    background-color: #F4F4FD ;
+}
+.title-empl{
+    font-size: 36px ;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em ;
+    text-transform: capitalize ;
+    color: #2e2f42;
+}
+.empl-link{
+    background-color: #FFFFFF;
+
 }
 .nav.link { 
 /* Body Medium */
@@ -119,17 +134,6 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
-}
-.content {
-color: var(--SLATE, #434455);
-
-/* Body */
-font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
 }
 
 /*footer*/
