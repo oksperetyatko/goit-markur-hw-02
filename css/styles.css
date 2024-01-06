@@ -176,8 +176,9 @@ font-size: 36px;
 .logo-web{
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway" sans-serif;
-    line-height: 1.17;
+    
     font-size: 18px;
+    line-height: 1.17;
     font-style: normal;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
@@ -186,9 +187,9 @@ font-size: 36px;
 }
 .logo-studio {
     color: #f4f4fd;
-    font-family: "Raleway",sans-serif;
-    
+    font-family: "Raleway",sans-serif; 
     font-size: 18px;
+    line-height: 1.17;
     font-style: normal;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
