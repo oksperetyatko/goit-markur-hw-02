@@ -23,7 +23,7 @@ a {
 }
 .logo-web{
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;sans-serif;
+    font-family: Raleway,sans-serif;
     line-height:1.17 ;
     font-size: 18px;
     font-style: normal;
@@ -34,22 +34,17 @@ a {
 }
 .logo-studio{
     color: #2E2F42 ;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px; /* 116.667% */
-    letter-spacing: 0.54px;
-    text-transform: uppercase;;
-    color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway, sans-serif;
-    line-height: 1.17;
+    line-height: 1.17 ;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
     letter-spacing: 0.54px;
-    text-transform: uppercase;
+    text-transform: uppercase;; 
+}
+.logo-studio{
+    color: #2e2f42;
 }
 .nav-contact{
     color: #2E2F42;}
@@ -71,6 +66,9 @@ a {
     color: #434455;}
 .nav-address:hover{
    color: #404bbf 
+}
+.nav-address:focus{
+   color: #404bbf;
 }
 .addres-link{
     font-family: Roboto;
@@ -107,13 +105,12 @@ a {
 .button:focus {
     background-color:#404BBF ;
 }
-.advert-class{
-
+.advert-class {
 }
 .title-advert {}
-.advert-item {
+.advert-item {  
 }
-.title-3{
+.title-3 {
     color:#2e2f42;
     font-weight: 500;
     font-size: 20px ;
