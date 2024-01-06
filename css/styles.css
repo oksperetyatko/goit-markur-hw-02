@@ -156,7 +156,7 @@ font-size: 36px;
 
 }
 .content {
-   text-decoration:#434455; 
+   color: #434455 ; 
 }
 /*footer*/
 .site-foot{
@@ -184,7 +184,7 @@ font-size: 36px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.content{
+.content-foot {
     color: #F4F4FD;
     font-family: Roboto;
     font-size: 16px;
