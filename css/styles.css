@@ -24,22 +24,22 @@ a {
 .logo-web{
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway",sans-serif;
-    line-height: 1.17;
+    line-height: 1.16;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 .logo-studio-hed{
    color: #2e2f42 ;
     font-family: Raleway, sans-serif;
-    line-height: 1.17;
+    line-height: 1.16;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+
     letter-spacing: 0.54px;
     text-transform: uppercase;}
 .nav-contact{
@@ -178,10 +178,10 @@ font-size: 36px;
     font-family: "Raleway" sans-serif;
     
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.16;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+   
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -189,10 +189,10 @@ font-size: 36px;
     color: #f4f4fd;
     font-family: "Raleway",sans-serif; 
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.16;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+   
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
