@@ -5,7 +5,7 @@
     --secondary-text-color 
 }
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #434455;
  background-color: #FFF;}
 a {
@@ -23,7 +23,7 @@ a {
 }
 .logo-web{
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway,sans-serif;
+    font-family: "Raleway",sans-serif;
     line-height:1.17 ;
     font-size: 18px;
     font-style: normal;
@@ -164,7 +164,7 @@ font-size: 36px;
 }
 .logo-web{
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway" sans-serif;
     line-height: 1.17;
     font-size: 18px;
     font-style: normal;
@@ -175,7 +175,7 @@ font-size: 36px;
 }
 .logo-studio{
     color: #f4f4fd;
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway",sans-serif;
     line-height: 1.17;
     font-size: 18px;
     font-style: normal;
