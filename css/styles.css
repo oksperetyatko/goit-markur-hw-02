@@ -41,13 +41,7 @@ a {
     font-weight: 700;
     line-height: 21px; /* 116.667% */
     letter-spacing: 0.54px;
-    text-transform: uppercase;
-}
-.logo-studio{
-    color: #2e2f42;
-    font-family: Raleway,sans-serif;
-    line-height: 1.17;
-}
+    text-transform: uppercase;}
 .nav-contact{
     color: #2E2F42;}
 .nav-contact:hover{
@@ -102,10 +96,11 @@ a {
 .button:focus {
     background-color:#404BBF ;
 }
-.advert-class {
+.title-advert {
+    color:000000;
 }
-.title-advert {}
 .advert-item {  
+
 }
 .title-3 {
     color:#2e2f42;
@@ -113,7 +108,6 @@ a {
     font-size: 20px ;
     line-height: 1.2;
     letter-spacing: 0.02em;
-
 }
 .content{
    color: #434455 ;
