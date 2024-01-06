@@ -185,8 +185,7 @@ font-size: 36px;
     text-transform: uppercase;
 }
 .content{
-    color: #434455 ;
-    
+    color: #F4F4FD;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -194,7 +193,4 @@ font-size: 36px;
     line-height: 1.5;
     letter-spacing: 0.32px;
     letter-spacing: 0.02em;
-}
-.color {
-    color:#F4F4FD ;
 }
