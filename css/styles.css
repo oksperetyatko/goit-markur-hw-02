@@ -24,7 +24,7 @@ a {
 .logo-web{
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway",sans-serif;
-    line-height:1.17 ;
+    line-height: 1.17 ;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -33,7 +33,7 @@ a {
     text-transform: uppercase;
 }
 .logo-studio{
-    color: #2E2F42 ;
+   color: #2e2f42 ;
     font-family: Raleway, sans-serif;
     line-height: 1.17 ;
     font-size: 18px;
