@@ -111,6 +111,8 @@ a {
 }
 .content{
    color: #434455 ;
+   line-height: 1.5 ;
+   letter-spacing: 0.02em;
 }
 .employess{
     background-color: #F4F4FD;
@@ -157,6 +159,9 @@ font-size: 36px;
 }
 .content {
    color: #434455 ; 
+   line-height: 1.5 ;
+   letter-spacing: 0.02em;
+
 }
 /*footer*/
 .site-foot{
