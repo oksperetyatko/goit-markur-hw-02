@@ -7,7 +7,7 @@
 body {
 font-family: "Roboto", sans-serif;
 color: #434455;
- background-color: #FFF;}
+background-color: #FFF;}
 a {
     text-decoration:none;}
 .list {
@@ -34,8 +34,7 @@ a {
 }
 .logo-studio-hed{
    color: #2e2f42 ;
-    font-family: Raleway, sans-serif;
-    line-height: 1.16;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -189,7 +188,6 @@ font-size: 36px;
     color: #f4f4fd;
     font-family: "Raleway",sans-serif; 
     font-size: 18px;
-    line-height: 1.16;
     font-style: normal;
     font-weight: 700;
    
@@ -205,4 +203,4 @@ font-size: 36px;
     line-height: 1.5;
     letter-spacing: 0.32px;
     letter-spacing: 0.02em;
-}
+} 
