@@ -5,13 +5,13 @@
     --secondary-text-color 
 }
 body {
-    font-family: "Raleway", sans-serif;
-    color: #434455;
+font-family: "Roboto", sans-serif;
+color: #434455;
  background-color: #FFF;}
 a {
     text-decoration:none;}
 .list {
-    padding: 0;
+
     list-style:none;
 }
 .link {
